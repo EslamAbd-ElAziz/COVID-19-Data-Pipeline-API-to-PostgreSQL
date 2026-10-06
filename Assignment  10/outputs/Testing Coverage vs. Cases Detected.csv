@@ -1,0 +1,11 @@
+country,continent,population,tests,cases,tests_pct_of_population,cases_pct_of_population,positivity_rate_pct
+Macao,Asia,667490,7850,27673,1.18,4.15,352.52
+S. Korea,Asia,51329899,15804065,34571873,30.79,67.35,218.75
+Algeria,Africa,45350148,230960,272010,0.51,0.60,117.77
+New Caledonia,Australia-Oceania,290915,98964,80064,34.02,27.52,80.90
+Brazil,South America,215353593,63776166,38743918,29.61,17.99,60.75
+Antigua and Barbuda,North America,99509,18901,9106,18.99,9.15,48.18
+Vanuatu,Australia-Oceania,321832,24976,12019,7.76,3.73,48.12
+Brunei,Asia,445431,717784,343719,161.14,77.17,47.89
+Slovenia,Europe,2078034,2847701,1356546,137.04,65.28,47.64
+Bolivia,South America,11992656,2710261,1212131,22.60,10.11,44.72
