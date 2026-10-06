@@ -39,5 +39,6 @@ An end-to-end ETL pipeline that extracts live COVID-19 statistics from a public 
 4. Run the notebook top to bottom
 ## Screenshots
 ![Unpivot view](Energy-Consumption-SQL-Analysis/02_unpivot_view.PNG)
+![Customers Average](<Superstore-DW-Postgresql/images/9-Product Profitability Classification.PNG>)
 ## 👤 Author
 Eslam Magdy — [LinkedIn](www.linkedin.com/in/eslam-saeed-70553b129)
