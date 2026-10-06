@@ -37,8 +37,9 @@ An end-to-end ETL pipeline that extracts live COVID-19 statistics from a public 
 2. Install dependencies: `pip install pandas requests sqlalchemy psycopg2-binary ipython-sql python-dotenv`
 3. Set up a PostgreSQL database and add your connection string to a `.env` file
 4. Run the notebook top to bottom
-## Screenshots
-![Unpivot view](Energy-Consumption-SQL-Analysis/02_unpivot_view.PNG)
-![Customers Average](<Superstore-DW-Postgresql/images/9-Product Profitability Classification.PNG>)
+## 🖼️ Screenshots
+![Covid_Pipeline](<Covid_Pipeline.ipynb/images/2-Data Cleaning & Wrangling.PNG>)
+![Covid_Pipeline](<Covid_Pipeline.ipynb/images/5- Data Analysis by SQLMagic.PNG>)
+![Covid_Pipeline](<Covid_Pipeline.ipynb/images/8- Summary View.PNG>)
 ## 👤 Author
 Eslam Magdy — [LinkedIn](www.linkedin.com/in/eslam-saeed-70553b129)
