@@ -25,10 +25,13 @@ An end-to-end ETL pipeline that extracts live COVID-19 statistics from a public 
 - Europe had the highest total cases and deaths of any continent.
 
 ## 📁 Repository Structure
-├── covid_pipeline.ipynb # Full notebook: ETL + analysis
-├── outputs/ # CSV exports of query results
+```
+├── Assignment 10 (COVID-19 Countries API).ipynb   # Full notebook: ETL + analysis
+├── covid.sql                                       # Standalone SQL script (views + queries)
+├── outputs/                                         # CSV exports of query results
+├── images/                                          # Screenshots used in documentation
 └── README.md
-
+```
 ## ▶️ How to Run
 1. Clone the repo
 2. Install dependencies: `pip install pandas requests sqlalchemy psycopg2-binary ipython-sql python-dotenv`
