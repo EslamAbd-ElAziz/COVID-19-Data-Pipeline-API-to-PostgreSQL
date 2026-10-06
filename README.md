@@ -26,10 +26,10 @@ An end-to-end ETL pipeline that extracts live COVID-19 statistics from a public 
 
 ## 📁 Repository Structure
 ```
-├── Assignment 10 (COVID-19 Countries API).ipynb   # Full notebook: ETL + analysis
-├── covid.sql                                       # Standalone SQL script (views + queries)
-├── outputs/                                         # CSV exports of query results
-├── images/                                          # Screenshots used in documentation
+├── covid_pipeline.ipynb   # Full notebook: ETL + analysis
+├── covid.sql              # Standalone SQL script (views + queries)
+├── outputs/               # CSV exports of query results
+├── images/                # Screenshots used in documentation
 └── README.md
 ```
 ## ▶️ How to Run
@@ -37,6 +37,7 @@ An end-to-end ETL pipeline that extracts live COVID-19 statistics from a public 
 2. Install dependencies: `pip install pandas requests sqlalchemy psycopg2-binary ipython-sql python-dotenv`
 3. Set up a PostgreSQL database and add your connection string to a `.env` file
 4. Run the notebook top to bottom
-
+## Screenshots
+![Unpivot view](Energy-Consumption-SQL-Analysis/02_unpivot_view.PNG)
 ## 👤 Author
 Eslam Magdy — [LinkedIn](www.linkedin.com/in/eslam-saeed-70553b129)
